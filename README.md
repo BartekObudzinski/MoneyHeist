@@ -3,16 +3,12 @@ Aplikacja MoneyHeist została stworzona do kontrolowania budżetów. W aplikacji
 ## Wzorce projektowe
 
 - Informatyka, Programowanie
-- Rok III Semestr VI
+- Rok IV Semestr VII
 
 ## Authors
 
 - Sebastian Rogowski 11303
 - Bartłomiej Obudziński 10246
-
-#Aplikacja jest dostępna pod adresem:
-https://gentle-stone-04b6c3503.1.azurestaticapps.net/
-
 ## Wzorzec MVC
 
 **Opis wzora**
